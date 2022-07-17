@@ -1,0 +1,13 @@
+printing the sums
+start:
+TYPE            TOTAL     ACTIVE    SIZE      RECLAIMABLE
+Images          4         1         346.6MB   336.4MB (97%)
+Containers      1         1         0B        0B
+Local Volumes   0         0         0B        0B
+Build Cache     66        0         1.29GB    1.29GB
+end: 
+TYPE            TOTAL     ACTIVE    SIZE      RECLAIMABLE
+Images          4         1         346.6MB   336.4MB (97%)
+Containers      1         1         0B        0B
+Local Volumes   0         0         0B        0B
+Build Cache     1         0         0B        0B
